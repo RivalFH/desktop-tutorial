@@ -1,5 +1,5 @@
 # Streamlit Dashboard Tes
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Ini merupakan tes pertama menggunakan streamlit dashboard untuk keperluan AI, ML, dan Deep Learning.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+<img width="960" height="951" alt="image" src="https://github.com/user-attachments/assets/f6880cc1-9ce4-4dd9-9362-396ae936da81" />
